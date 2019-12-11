@@ -1,0 +1,11 @@
+.ph-button {
+  border-radius: 5px;
+  border: 1px solid blue;
+  background-color: blue;
+  width: 100px;
+  padding: 0 10px;
+}
+
+.ph-button .ph-text h3{
+  color: #fff;
+}
